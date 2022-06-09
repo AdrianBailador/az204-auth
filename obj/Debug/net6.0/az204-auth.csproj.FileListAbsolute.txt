@@ -1,0 +1,17 @@
+C:\Users\abailador\Desktop\az204-auth\bin\Debug\net6.0\az204-auth.exe
+C:\Users\abailador\Desktop\az204-auth\bin\Debug\net6.0\az204-auth.deps.json
+C:\Users\abailador\Desktop\az204-auth\bin\Debug\net6.0\az204-auth.runtimeconfig.json
+C:\Users\abailador\Desktop\az204-auth\bin\Debug\net6.0\az204-auth.dll
+C:\Users\abailador\Desktop\az204-auth\bin\Debug\net6.0\az204-auth.pdb
+C:\Users\abailador\Desktop\az204-auth\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\abailador\Desktop\az204-auth\obj\Debug\net6.0\az204-auth.csproj.AssemblyReference.cache
+C:\Users\abailador\Desktop\az204-auth\obj\Debug\net6.0\az204-auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abailador\Desktop\az204-auth\obj\Debug\net6.0\az204-auth.AssemblyInfoInputs.cache
+C:\Users\abailador\Desktop\az204-auth\obj\Debug\net6.0\az204-auth.AssemblyInfo.cs
+C:\Users\abailador\Desktop\az204-auth\obj\Debug\net6.0\az204-auth.csproj.CoreCompileInputs.cache
+C:\Users\abailador\Desktop\az204-auth\obj\Debug\net6.0\az204-auth.csproj.CopyComplete
+C:\Users\abailador\Desktop\az204-auth\obj\Debug\net6.0\az204-auth.dll
+C:\Users\abailador\Desktop\az204-auth\obj\Debug\net6.0\refint\az204-auth.dll
+C:\Users\abailador\Desktop\az204-auth\obj\Debug\net6.0\az204-auth.pdb
+C:\Users\abailador\Desktop\az204-auth\obj\Debug\net6.0\az204-auth.genruntimeconfig.cache
+C:\Users\abailador\Desktop\az204-auth\obj\Debug\net6.0\ref\az204-auth.dll
